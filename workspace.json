@@ -1,7 +1,11 @@
 {
   "version": 2,
-  "projects": {},
-  "cli": {
-    "defaultCollection": "@nrwl/workspace"
+  "projects": {
+    "backoffice": "apps/backoffice",
+    "backoffice-e2e": "apps/backoffice-e2e",
+    "menu": "apps/menu",
+    "menu-e2e": "apps/menu-e2e",
+    "pos": "apps/pos",
+    "pos-e2e": "apps/pos-e2e"
   }
 }
